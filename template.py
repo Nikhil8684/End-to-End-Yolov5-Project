@@ -24,7 +24,7 @@ list_of_files = [
     f"{project_name}/utils/__init__.py",
     f"{project_name}/utils/main_utils.py",
     "templates/index.html",
-    "app.py"
+    "app.py",
     "Dockerfile",
     "requirements.txt",
     "setup.py"
