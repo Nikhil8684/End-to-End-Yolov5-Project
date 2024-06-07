@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfeedf66-0d77-4ae4-96d4-ba8dd9960b97" name="Changes" comment="change 1">
+    <list default="true" id="bfeedf66-0d77-4ae4-96d4-ba8dd9960b97" name="Changes" comment="change 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717772299858</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change 2">
+      <created>1717772962069</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717772962069</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change 2">
+      <created>1717773022079</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717773022079</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,6 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="change 1" />
+    <MESSAGE value="change 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="change 2" />
   </component>
 </project>
